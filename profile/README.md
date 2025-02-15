@@ -1,6 +1,6 @@
 # 🚫 Acesso Negado! 🚫
 
-### 🛑 **Este repositório é **privado** e você não tem permissão para acessá-lo!** 🛑
+### 🛑 **Esta organização é **privada** e você não tem permissão para acessá-lo!** 🛑
 
 Parece que você entrou em território proibido... Isso não é o que você esperava, não é? 😅
 
